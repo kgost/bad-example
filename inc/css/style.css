@@ -1,0 +1,4 @@
+.thumbnail { padding: 0; }
+.thumbnail img { width: 100%; }
+.copyright { font-size: .8em; color: #c9c9c9; }
+.copyright a:hover, .copyright a:visited { text-decoration: none; color: green; }
